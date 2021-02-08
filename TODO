@@ -5,3 +5,7 @@ make the cpp side of things work.  Figure out what c++ dependencies
 need to be installed on the system... possible dismantling of
 cpp_common and others.
 
+
+
+test another (conflict) commit
+test the (conflict) merge
